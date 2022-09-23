@@ -523,8 +523,7 @@ body {
 .footer {
   padding: 45px 0;
 }
-.footer_container {
-}
+
 .footer__items {
   display: flex;
   justify-content: center;
@@ -532,8 +531,7 @@ body {
   column-gap: 50px;
   row-gap: 20px;
 }
-.footer__item {
-}
+
 /* ------------------------@media------------------------- */
 
 /* PC */
